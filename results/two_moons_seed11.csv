@@ -1,0 +1,11 @@
+coupling,euler_steps,sliced_w2
+random,5,0.188756
+random,10,0.153395
+random,20,0.144900
+random,50,0.144094
+random,100,0.144621
+minibatch-ot,5,0.103457
+minibatch-ot,10,0.105247
+minibatch-ot,20,0.106119
+minibatch-ot,50,0.106634
+minibatch-ot,100,0.106805
